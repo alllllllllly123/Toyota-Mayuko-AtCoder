@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Toyota Mayuko AtCoder
 // @namespace    https://github.com/alllllllllly123
-// @version      1.0.0
+// @version      1.0.1
 // @description  AtCoderでWAを出すと豊田真由子にキレられます。
 // @author       alllllllllly123
 // @match        https://atcoder.jp/*
